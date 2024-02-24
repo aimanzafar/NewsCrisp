@@ -54,3 +54,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+![Screenshot (79)](https://github.com/aimanzafar/NewsCrisp/assets/147552086/128cbe6a-a223-46d8-9990-c7affc3f1827)
+![Screenshot (80)](https://github.com/aimanzafar/NewsCrisp/assets/147552086/cc5f1631-61d7-411a-a49f-21101c22e792)
+
